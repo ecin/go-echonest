@@ -1,0 +1,4 @@
+Client to The Echo Nest's API.
+
+Methods currently available:
+- GetSongs()
